@@ -105,14 +105,6 @@ This EDA lays the groundwork for building a **survival prediction ML model**. Ne
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-
----
-
 ## 📄 License
 
 This project is open source under the [MIT License](LICENSE).
